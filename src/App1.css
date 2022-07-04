@@ -1,0 +1,20 @@
+.react-datepicker {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 0.8rem;
+    background-color:#1C3663;
+    color:white;
+    border: 0px;
+    border-radius: 0;
+    display: inline-block;
+    position: relative;
+  }
+  .date-picker{
+    width: 20rem;
+    height: 20rem;
+    border: 2px solid black;
+  }
+  
+  /* .ui-datepicker{
+    font-size:16px;
+    line-height: 1.3;
+} */
