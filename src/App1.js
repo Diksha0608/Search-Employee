@@ -37,9 +37,10 @@ class App1 extends Component {
         <div style={{borderRadius:"40px"}}   className="form-group">  
           <DatePicker 
           
-          placeholderText='date-picker'  
+              placeholderText='date-picker'  
               selected={ this.state.startDate }  
               onChange={ this.handleChange }  
+              
 
           /> 
         </div>  
